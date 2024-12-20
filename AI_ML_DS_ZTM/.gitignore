@@ -2,6 +2,9 @@
 data/
 docs/
 slides/
+data
+docs
+slides
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
