@@ -1,3 +1,8 @@
+#Data, Docs and Slides
+data/
+docs/
+slides/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
